@@ -1,0 +1,1 @@
+Diagram of  example database E/R was created in Baker notation. Database was made in Toad Data Modeler nad next scrypt Transact SQL was generated. Then database was created using scrypt in MS SQL Management Studio and example data were inserted to database. Finally, MS SQL Management Studio and Microsoft Access got connected in order to create forms of client's application. 
